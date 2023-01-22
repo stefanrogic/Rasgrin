@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stefan, @Rasgrin.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript and Firebase.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on anything web related. Always looking for more experience.
 - 📫 How to reach me: stefanrogic@protonmail.com.
 
