@@ -3,7 +3,7 @@
 - 🌱 I’m currently building React projects for my portfolio.
 - 💞️ I’m looking to collaborate on anything web related. Always looking for more experience.
 - 📫 How to reach me:  stefanrogic@protonmail.com
-- 🌐 Check out my portfolio:  https://stefan-rogic.netlify.app/
+- 🌐 My portfolio:  https://stefan-rogic.netlify.app/
 
 <!---
 Rasgrin/Rasgrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
