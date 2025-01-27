@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Stefan, @Rasgrin.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently building React projects for my portfolio.
-- 💞️ I’m looking to collaborate on anything web related. Always looking for more experience.
+- 👋 Hi, I’m Stefan, @stefanrogic.
+- 👀 I’m interested in Web Development.
+- 💞️ I’m looking to collaborate on anything WebDev or SysAdmin related. Always looking for more experience.
 - 📫 How to reach me:  stefanrogic@protonmail.com
 - 🌐 My portfolio:  https://stefan-rogic.netlify.app/
 
